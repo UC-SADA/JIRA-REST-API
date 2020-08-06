@@ -1,0 +1,9 @@
+
+{
+  "protocol": "https",
+  "host": "***.atlassian.net",
+  "username": "***",
+  "password": "***",
+  "apiVersion": 3,
+  "strictSSL": true
+}
